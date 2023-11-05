@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Git Stats
+## Git Stats
 ![jinieeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinieeee&show_icons=true&theme=radical)
