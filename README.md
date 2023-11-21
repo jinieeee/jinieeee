@@ -13,8 +13,7 @@
 
 #### 현대 인증중고차 이커머스 프로젝트 구축
 [기간] 2022.04 ~ 2023.10  
-[기술]  
-java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git   
+[기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git   
 [역할]  
 1. 1 ~ 2차 : FO 마이페이지 > 내차팔기 관리
      - 내차팔기 관리 화면의 목록, 상세 화면 개발
