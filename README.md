@@ -5,15 +5,17 @@
 
 ### 플래티어 / 2022.01 ~ 재직중
 #### 현대 인증중고차 이커머스 프로젝트 운영
-[기간] 2023.10 ~  
+[기간] 2023.10 ~ 2023.12
+[기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git
+[CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS
 [역할]  
-1. FO 내차팔기 모듈 운영 및 변경 사항 추가 개발
-    
+1. FO 내차팔기 모듈 운영 및 변경 사항 추가 개발  
    
 
 #### 현대 인증중고차 이커머스 프로젝트 구축
 [기간] 2022.04 ~ 2023.10  
-[기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git   
+[기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git
+[CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS
 [역할]  
 1. 1차 기간 : 2022.04 ~ 2022.09
     FO 마이페이지 > 내차팔기 관리
