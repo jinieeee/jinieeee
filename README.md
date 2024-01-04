@@ -1,18 +1,20 @@
-## 🚀 자기소개
+# 🚀 자기소개
 탐구하고 경험하고 기록하는 것을 좋아합니다. 개발 언어를 바탕으로 환경설정과 네트워크, DevOps 기술에 대해서 공부하고 개인 프로젝트에서 구현하여 Github로 관리하고 있습니다. 
 
-## 👩‍💻 경력기술서
+<hr />
 
-### 플래티어 / 2022.01 ~ 재직중
-#### 현대 인증중고차 이커머스 프로젝트 운영
-[기간] 2023.10 ~ 2023.12  
+# 👩‍💻 경력기술서
+
+## 플래티어 / 2022.01 ~ 재직중
+### - 현대 인증중고차 이커머스 프로젝트 운영
+[기간] 2023.10 ~ 2024.01  
 [기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git  
 [CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS  
 [역할]  
-1. FO 내차팔기 모듈 운영 및 변경 사항 추가 개발  
-   
+1. FO 내차팔기 모듈 운영 및 변경 사항 추가 개발
+2. javascript callback 방식을 async/await 방식으로 개선
 
-#### 현대 인증중고차 이커머스 프로젝트 구축
+### - 현대 인증중고차 이커머스 프로젝트 구축
 [기간] 2022.04 ~ 2023.10  
 [기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git  
 [CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS  
