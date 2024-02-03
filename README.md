@@ -7,28 +7,29 @@
 
 ### 플래티어 / 2022.01 ~ 재직중
 <br>
-<table border="0">
+<table>
 <tr align="left">
-<th valign="top">플래티어 x2bee 솔루션<br>2024.01 ~</th>
-<td>
+<th valign="top">플래티어 x2bee 솔루션<br>2024.01 ~ </th>
+<td valign="top">
    [기술] javascript, typescript, react, nextjs <br>
    [역할] vuejs(nuxt) -> reactjs(next) 마이그레이션 <br>
+&nbsp <br> &nbsp
 </td>
 </tr>
 <tr align="left">
-<th valign="top">현대 인증중고차 이커머스 프로젝트 운영<br>2023.10 ~ 2024.01</th>
-<td>
+<th valign="top">현대 인증중고차 프로젝트 운영<br>2023.10 ~ 2024.01</th>
+<td valign="top">
    [기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git <br>
    [CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS <br>
    [역할] FO 내차팔기 모듈 운영 및 변경 사항 추가 개발 <br>
    [성과] <br>
 &nbsp&nbsp&nbsp&nbsp - callback -> async/await 방식으로 변경하여 코드 가독성 개선 <br>
-&nbsp&nbsp&nbsp&nbsp - 전시 콘텐츠 조회 api 캐싱 적용하여 성능 개선
-   </pre>
+&nbsp&nbsp&nbsp&nbsp - 전시 콘텐츠 조회 api 캐싱 적용하여 성능 개선<br> 
+&nbsp <br> &nbsp
 </td>
 </tr>
 <tr align="left">
-<th valign="top">현대 인증중고차 이커머스 프로젝트 구축<br>2022.04 ~ 2023.10</th>
+<th valign="top">현대 인증중고차 프로젝트 구축<br>2022.04 ~ 2023.10</th>
 <td>
    [기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git <br>
    [CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS <br>
@@ -49,13 +50,16 @@
 &nbsp&nbsp&nbsp&nbsp - 개발완료 준수 건 / 총 개발건, 157/157을 유지하여 일정 준수율 100% 달성 <br>
 &nbsp&nbsp&nbsp&nbsp - 산출물 다이어그램 작성하여 업무 인계에 활용 <br>
 &nbsp&nbsp&nbsp&nbsp - 산출물 Swagger 작성하여 문서로 의사소통 <br>
+&nbsp <br> &nbsp
 </td>
 </tr>
 <tr align="left">
-<th>현대자동차 일본 플랫폼 프로젝트 운영<br>2022.04 ~ 2022.05</th>
+<th>현대차 일본 플랫폼 프로젝트 운영<br>2022.04 ~ 2022.05</th>
 <td>
    [역할] <br> 
-&nbsp&nbsp&nbsp&nbsp - Back-Office 엑셀 다운로드 개선</td>
+&nbsp&nbsp&nbsp&nbsp - Back-Office 엑셀 다운로드 개선
+&nbsp <br> &nbsp
+</td>
 </tr>
 </table>
 
