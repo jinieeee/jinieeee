@@ -1,8 +1,7 @@
 ## 🚀 자기소개
 탐구하고 경험하고 기록하는 것을 좋아합니다. 개발 언어를 바탕으로 환경설정과 네트워크, DevOps 기술에 대해서 공부하고 개인 프로젝트에서 구현하여 Github로 관리하고 있습니다. 
 
-<br>
-<br>
+<hr />
 
 ## 👩‍💻 경력기술서
 
@@ -12,8 +11,14 @@
 <tr align="left">
 <th valign="top">플래티어 x2bee 솔루션<br>2024.01 ~ </th>
 <td valign="top">
-   [기술] javascript, typescript, react, nextjs <br>
-   [역할] vuejs(nuxt) -> reactjs(next) 마이그레이션 <br>
+   [목적] vuejs(nuxt) -> reactjs(next) 마이그레이션 <br>
+   [기술] javascript, typescript, react, nextjs, zustand <br>
+   [역할] <br>
+&nbsp&nbsp&nbsp&nbsp - 주문/결제 : 장바구니, 배송요청사항 변경 개발 <br>
+&nbsp&nbsp&nbsp&nbsp - 회원 : 쿠폰함 개발 <br>
+&nbsp&nbsp&nbsp&nbsp - 이벤트 : 이벤트 상세 - 댓글, 쿠폰 다운로드 개발 <br>
+   [성과] <br>
+&nbsp&nbsp&nbsp&nbsp - 개발 일정 준수율 100%
 &nbsp <br> &nbsp
 </td>
 </tr>
