@@ -1,9 +1,8 @@
 ## 🚀 자기소개
 탐구하고 경험하고 기록하기 좋아하는 3년차 웹개발자 이지은입니다. 2022년 03월 ~ 2023년 10월(총 18개월) 현대 인증중고차 구축 프로젝트를, 이후 3개월 운영까지
 하면서 한 프로젝트의 구축과 운영을 모두 경험했습니다. <br>
-현재는 기술연구소에서 X2BEE 이커머스 솔루션의 프론트엔드를 React(NextJS framework)로 마이그레이션하고 있습니다. 
-학습했던 언어를 업무에 적극적으로 활용할 수 있어 의미있는 프로젝트라고 생각합니다. <br>
-개발 언어를 바탕으로 환경설정과 네트워크, DevOps 기술에 대해서 학습하고 개인 프로젝트에서 구현하여 Github로 관리하고 있습니다. Oauth, JWT 방식 로그인, 테스트 코드 작성, RestfulAPI, AWS S3, CodeDeploy 등 업무에 활용할 수 있는 기술들을 이해하고 개발에 적용합니다.
+현재는 기술연구소에서 X2BEE 이커머스 솔루션의 프론트엔드를 React(NextJS framework)로 마이그레이션하는 프로젝트를 마치고 멀티사이트 서비스를 위한 고도화 작업을 하고 있습니다.  
+자바스크립트와 자바를 사용하여 환경설정과 네트워크, DevOps 기술에 대해서 학습하고 개인 프로젝트에서 구현하여 Github로 관리하고 있습니다. Oauth, JWT 방식 로그인, 테스트 코드 작성, RestfulAPI, AWS S3, CodeDeploy 등 업무에 활용할 수 있는 기술들을 이해하고 개발에 적용합니다.
 <hr />
 
 ## 포트폴리오 [link](./portfolio/README.md)
@@ -13,8 +12,17 @@
 ### 플래티어 / 2022.01 ~ 재직중
 <br>
 <table>
+<tr>
+<th valign="top">플래티어 x2bee 솔루션<br>2024.03 ~ </th>
+<td>
+    [목적] 멀티사이트 서비스
+    [기술] javascript, typescript, react, nextjs, zustand <br>
+    [역할] <br>
+&nbsp&nbsp&nbsp&nbsp - 멀티사이트 서비스 솔루션 설계 및 개발 <br>
+</td>
+</tr>
 <tr align="left">
-<th valign="top">플래티어 x2bee 솔루션<br>2024.01 ~ </th>
+<th valign="top">플래티어 x2bee 솔루션<br>2023.12 ~ 03</th>
 <td valign="top">
    [목적] vuejs(nuxt) -> reactjs(next) 마이그레이션 <br>
    [기술] javascript, typescript, react, nextjs, zustand <br>
@@ -23,12 +31,15 @@
 &nbsp&nbsp&nbsp&nbsp - 회원 : 쿠폰함 개발 <br>
 &nbsp&nbsp&nbsp&nbsp - 이벤트 : 이벤트 상세 - 댓글, 쿠폰 다운로드 개발 <br>
    [성과] <br>
-&nbsp&nbsp&nbsp&nbsp - 개발 일정 준수율 100%
+&nbsp&nbsp&nbsp&nbsp - 개발 일정 준수율 100%<br>
+&nbsp&nbsp&nbsp&nbsp - 장바구니 프로세스에 UML(시퀀스, 클래스 다이어그램) 사용하여 시각화 <br>
+&nbsp&nbsp&nbsp&nbsp - swagger, release note 문서화 <br>
+&nbsp&nbsp&nbsp&nbsp - 개발 환경 설정 가이드 작성<br>
 &nbsp <br> &nbsp
 </td>
 </tr>
 <tr align="left">
-<th valign="top">현대 인증중고차 프로젝트 운영<br>2023.10 ~ 2024.01</th>
+<th valign="top">현대 인증중고차 프로젝트 운영<br>2023.10 ~ 2023.12</th>
 <td valign="top">
    [기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git <br>
    [CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS <br>
