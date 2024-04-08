@@ -1,8 +1,7 @@
 ## 🚀 자기소개
-탐구하고 경험하고 기록하기 좋아하는 3년차 웹개발자 이지은입니다. 2022년 03월 ~ 2023년 10월(총 18개월) 현대 인증중고차 구축 프로젝트를, 이후 3개월 운영까지
-하면서 한 프로젝트의 구축과 운영을 모두 경험했습니다. <br>
-현재는 기술연구소에서 X2BEE 이커머스 솔루션의 프론트엔드를 React(NextJS framework)로 마이그레이션하는 프로젝트를 마치고 멀티사이트 서비스를 위한 고도화 작업을 하고 있습니다.  
-자바스크립트와 자바를 사용하여 환경설정과 네트워크, DevOps 기술에 대해서 학습하고 개인 프로젝트에서 구현하여 Github로 관리하고 있습니다. Oauth, JWT 방식 로그인, 테스트 코드 작성, RestfulAPI, AWS S3, CodeDeploy 등 업무에 활용할 수 있는 기술들을 이해하고 개발에 적용합니다.
+탐구하고 경험하고 기록하기 좋아하는 3년차 웹개발자 이지은입니다. 3년차 웹 개발자로 플래티어 EC개발 3팀에서 현대 인증중고차 구축 프로젝트를 진행했습니다.
+thymeleaf, javascript, jquery 기술을 사용한 프론트엔드를 개발했습니다. <br>
+기술연구소에서 X2BEE 이커머스 솔루션의 프론트엔드를 React(NextJS framework)로 마이그레이션하고, 이후로 멀티사이트를 위한 개발을 하고 있습니다.
 <hr />
 
 ## 포트폴리오 [link](./portfolio/README.md)
@@ -12,17 +11,17 @@
 ### 플래티어 / 2022.01 ~ 재직중
 <br>
 <table>
-<tr>
+<tr align="left">
 <th valign="top">플래티어 x2bee 솔루션<br>2024.03 ~ </th>
 <td>
-    [목적] 멀티사이트 서비스
+    [목적] 멀티사이트 서비스 <br>
     [기술] javascript, typescript, react, nextjs, zustand <br>
     [역할] <br>
 &nbsp&nbsp&nbsp&nbsp - 멀티사이트 서비스 솔루션 설계 및 개발 <br>
 </td>
 </tr>
 <tr align="left">
-<th valign="top">플래티어 x2bee 솔루션<br>2023.12 ~ 03</th>
+<th valign="top">플래티어 x2bee 솔루션<br>2023.10 ~ 03</th>
 <td valign="top">
    [목적] vuejs(nuxt) -> reactjs(next) 마이그레이션 <br>
    [기술] javascript, typescript, react, nextjs, zustand <br>
@@ -35,18 +34,6 @@
 &nbsp&nbsp&nbsp&nbsp - 장바구니 프로세스에 UML(시퀀스, 클래스 다이어그램) 사용하여 시각화 <br>
 &nbsp&nbsp&nbsp&nbsp - swagger, release note 문서화 <br>
 &nbsp&nbsp&nbsp&nbsp - 개발 환경 설정 가이드 작성<br>
-&nbsp <br> &nbsp
-</td>
-</tr>
-<tr align="left">
-<th valign="top">현대 인증중고차 프로젝트 운영<br>2023.10 ~ 2023.12</th>
-<td valign="top">
-   [기술] java, Spring boot, thymeleaf, javascript, jQuery, postgreSQL, git <br>
-   [CICD] 젠킨스, gitlab, harbor, argoCD, Amazon EKS <br>
-   [역할] FO 내차팔기 모듈 운영 및 변경 사항 추가 개발 <br>
-   [성과] <br>
-&nbsp&nbsp&nbsp&nbsp - callback -> async/await 방식으로 변경하여 코드 가독성 개선 <br>
-&nbsp&nbsp&nbsp&nbsp - 전시 콘텐츠 조회 api 캐싱 적용하여 성능 개선<br> 
 &nbsp <br> &nbsp
 </td>
 </tr>
