@@ -1,7 +1,10 @@
 ## 🚀 자기소개
-탐구하고 경험하고 기록하기 좋아하는 3년차 웹개발자 이지은입니다. 3년차 웹 개발자로 플래티어 EC개발 3팀에서 현대 인증중고차 구축 프로젝트를 진행했습니다.
-thymeleaf, javascript, jquery 기술을 사용한 프론트엔드를 개발했습니다. <br>
-기술연구소에서 X2BEE 이커머스 솔루션의 프론트엔드를 React(NextJS framework)로 마이그레이션하고, 이후로 멀티사이트를 위한 개발을 하고 있습니다.
+시각화 데이터와 문서로 소통하는 것을 중요하게 생각하는 3년차 웹개발자 이지은입니다.
+첫 번째, UML을 활용하여 비즈니스 로직에 대한 원활한 소통을 추구합니다.
+두 번째, 문서화를 통해 인수인계 시에 신속하고 정확하게 수행합니다.
+세 번째, 가이드 문서와 swagger를 작성하여 프로젝트의 품질을 높이기 위해 노력하고 있습니다.
+이러한 업무 자세로 현대 인증중고차 구축 프로젝트와 사내 X2BEE 이커머스 솔루션에서 프론트 엔드를 담당하여 개발한 경험이 있습니다.
+현재는 기술연구소에서 X2BEE 이커머스 솔루션의 멀티사이트화 개발을 진행 중입니다.
 <hr />
 
 ## 포트폴리오 [link](./portfolio/README.md)
@@ -12,7 +15,7 @@ thymeleaf, javascript, jquery 기술을 사용한 프론트엔드를 개발했�
 <br>
 <table>
 <tr align="left">
-<th valign="top">플래티어 x2bee 솔루션<br>2024.03 ~ </th>
+<th valign="top">플래티어 x2bee 솔루션<br>2024.04 ~ </th>
 <td>
     [목적] 멀티사이트 서비스 <br>
     [기술] javascript, typescript, react, nextjs, zustand <br>
@@ -49,7 +52,7 @@ thymeleaf, javascript, jquery 기술을 사용한 프론트엔드를 개발했�
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 타 모듈(회원, 보유 차량 등)에 필요한 API 개발 및 제공 <br>
 <br>
 &nbsp&nbsp&nbsp&nbsp 2차 (2022.09 ~ 2023.10) : 내차팔기, 백오피스 차량관리 <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 내차팔기 차량 조회, 주행거리 입력, 조회 결과 화면 개발 <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 내차팔기 차량 조회, 주행거리 입력, 조회 결과 화면 변경 개발 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 차량 관리 목록, 차량 관리 상세, 거점 변경 개발 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 내차팔기 & 내차팔기 관리 프로세스 회의에 참석 및 설계 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 내차팔기 & 내차팔기 관리 작업 목록 및 진척률 관리, 주간보고 작성 <br>
