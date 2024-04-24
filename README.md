@@ -21,6 +21,11 @@
     [기술] javascript, typescript, react, nextjs, zustand <br>
     [역할] <br>
 &nbsp&nbsp&nbsp&nbsp - 멀티사이트 서비스 솔루션 설계 및 개발 <br>
+&nbsp&nbsp&nbsp&nbsp - 화면 성능 개선 <br>
+[성과] <br>
+&nbsp&nbsp&nbsp&nbsp - 내비게이션바, 장바구니 캐시 적용 <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp (최대 1100ms 소요되던 화면을 0 ~ 1ms으로 개선)
+&nbsp <br> &nbsp
 </td>
 </tr>
 <tr align="left">
@@ -55,10 +60,9 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 내차팔기 차량 조회, 주행거리 입력, 조회 결과 화면 변경 개발 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 차량 관리 목록, 차량 관리 상세, 거점 변경 개발 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 내차팔기 & 내차팔기 관리 프로세스 회의에 참석 및 설계 <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp - 내차팔기 & 내차팔기 관리 작업 목록 및 진척률 관리, 주간보고 작성 <br>
    [성과] <br>
 &nbsp&nbsp&nbsp&nbsp - 내차팔기 차량 조회 api 캐싱 적용하여 성능 개선 <br>
-&nbsp&nbsp&nbsp&nbsp - 내차팔기 차량 조회 안정적인 서비스 제공 <br>
+&nbsp&nbsp&nbsp&nbsp - callback function 호출 방식을 async / await 방식으로 변경하여 가독성 개선 <br>
 &nbsp&nbsp&nbsp&nbsp - 개발완료 준수 건 / 총 개발건, 157/157을 유지하여 일정 준수율 100% 달성 <br>
 &nbsp&nbsp&nbsp&nbsp - 산출물 다이어그램 작성하여 업무 인계에 활용 <br>
 &nbsp&nbsp&nbsp&nbsp - 산출물 Swagger 작성하여 문서로 의사소통 <br>
