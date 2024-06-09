@@ -4,7 +4,7 @@
 두 번째, 문서화를 통해 인수인계 시에 신속하고 정확하게 수행합니다.
 세 번째, 가이드 문서와 swagger를 작성하여 프로젝트의 품질을 높이기 위해 노력하고 있습니다.
 이러한 업무 자세로 현대 인증중고차 구축 프로젝트와 사내 X2BEE 이커머스 솔루션에서 프론트 엔드를 담당하여 개발한 경험이 있습니다.
-현재는 기술연구소에서 X2BEE 이커머스 솔루션의 멀티사이트화 개발을 진행 중입니다.
+현재는 기술연구소에서 X2BEE 이커머스 솔루션 고도화에 기여하고 있습니다.
 <hr />
 
 ## 포트폴리오 [link](./portfolio/README.md)
@@ -17,15 +17,15 @@
 <tr align="left">
 <th valign="top">플래티어 x2bee 솔루션<br>2024.04 ~ </th>
 <td>
-    [목적] 멀티사이트 서비스 <br>
     [기술] javascript, typescript, react, nextjs, zustand <br>
     [역할] <br>
+&nbsp&nbsp&nbsp&nbsp - 토스 PG 연동 <br>
 &nbsp&nbsp&nbsp&nbsp - 멀티사이트 서비스 솔루션 설계 및 개발 <br>
 &nbsp&nbsp&nbsp&nbsp - 화면 성능 개선 <br>
 [성과] <br>
 &nbsp&nbsp&nbsp&nbsp - 내비게이션바, 장바구니 캐시 적용 <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp (최대 1100ms 소요되던 화면을 0 ~ 1ms으로 개선)
-&nbsp <br> &nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp (최대 1100ms 소요되던 화면을 0 ~ 1ms으로 개선) <br>
+&nbsp <br>
 </td>
 </tr>
 <tr align="left">
