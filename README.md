@@ -17,12 +17,14 @@
 <tr align="left">
 <th valign="top">플래티어 x2bee 솔루션<br>2024.04 ~ </th>
 <td>
-    [기술] javascript, typescript, react, nextjs, zustand <br>
+    [기술] javascript, typescript, react, nextjs, zustand, spring framework, java <br>
     [역할] <br>
-&nbsp&nbsp&nbsp&nbsp - 토스 PG 연동 <br>
+&nbsp&nbsp&nbsp&nbsp - NIFI DB 동기화 <br>
+&nbsp&nbsp&nbsp&nbsp - 토스 PG 결제/빌링 개발 <br>
 &nbsp&nbsp&nbsp&nbsp - 멀티사이트 서비스 솔루션 설계 및 개발 <br>
 &nbsp&nbsp&nbsp&nbsp - 화면 성능 개선 <br>
 [성과] <br>
+&nbsp&nbsp&nbsp&nbsp - 이메일, SMS 수신인 일괄등록 성능 개선 <br>
 &nbsp&nbsp&nbsp&nbsp - 내비게이션바, 장바구니 캐시 적용 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp (최대 1100ms 소요되던 화면을 0 ~ 1ms으로 개선) <br>
 &nbsp <br>
