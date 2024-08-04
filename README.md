@@ -19,15 +19,14 @@
 <td>
     [기술] javascript, typescript, react, nextjs, zustand, spring framework, java <br>
     [역할] <br>
-&nbsp&nbsp&nbsp&nbsp - 데이터 이관 배치 개선 <br>
-&nbsp&nbsp&nbsp&nbsp - NIFI DB 동기화 <br>
-&nbsp&nbsp&nbsp&nbsp - 토스 PG 결제/빌링 개발 <br>
-&nbsp&nbsp&nbsp&nbsp - 멀티사이트 서비스 솔루션 설계 및 개발 <br>
 &nbsp&nbsp&nbsp&nbsp - 화면 성능 개선 <br>
+&nbsp&nbsp&nbsp&nbsp - 토스 PG 결제/빌링 개발 <br>
+&nbsp&nbsp&nbsp&nbsp - 데이터 이관 배치 개선 <br>
+&nbsp&nbsp&nbsp&nbsp - NIFI DB 동기화 개발 <br>
 [성과] <br>
-&nbsp&nbsp&nbsp&nbsp - 이메일, SMS 수신인 일괄등록 성능 개선 <br>
 &nbsp&nbsp&nbsp&nbsp - 내비게이션바, 장바구니 캐시 적용 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp (최대 1100ms 소요되던 화면을 0 ~ 1ms으로 개선) <br>
+&nbsp&nbsp&nbsp&nbsp - 설정에 따라 다른 결제 모듈을 제공하여 PG사 선택권 확대
 &nbsp <br>
 </td>
 </tr>
@@ -37,15 +36,14 @@
    [목적] vuejs(nuxt) -> reactjs(next) 마이그레이션 <br>
    [기술] javascript, typescript, react, nextjs, zustand <br>
    [역할] <br>
-&nbsp&nbsp&nbsp&nbsp - 주문/결제 : 장바구니, 배송요청사항 변경 개발 <br>
-&nbsp&nbsp&nbsp&nbsp - 회원 : 쿠폰함 개발 <br>
-&nbsp&nbsp&nbsp&nbsp - 이벤트 : 이벤트 상세 - 댓글, 쿠폰 다운로드 개발 <br>
+&nbsp&nbsp&nbsp&nbsp - 주문/결제 : 장바구니, 배송요청사항 UI 개발 <br>
+&nbsp&nbsp&nbsp&nbsp - 회원 : 쿠폰함 UI 개발 <br>
+&nbsp&nbsp&nbsp&nbsp - 이벤트 : 이벤트 상세 - 댓글, 쿠폰 다운로드 UI 개발 <br>
    [성과] <br>
 &nbsp&nbsp&nbsp&nbsp - 개발 일정 준수율 100%<br>
-&nbsp&nbsp&nbsp&nbsp - 장바구니 프로세스에 UML(시퀀스, 클래스 다이어그램) 사용하여 시각화 <br>
-&nbsp&nbsp&nbsp&nbsp - swagger, release note 문서화 <br>
+&nbsp&nbsp&nbsp&nbsp - 컴포넌트 다이어그램 활용하여 시각화 <br>
 &nbsp&nbsp&nbsp&nbsp - 개발 환경 설정 가이드 작성<br>
-&nbsp <br> &nbsp
+&nbsp <br>
 </td>
 </tr>
 <tr align="left">
@@ -69,7 +67,7 @@
 &nbsp&nbsp&nbsp&nbsp - 개발완료 준수 건 / 총 개발건, 157/157을 유지하여 일정 준수율 100% 달성 <br>
 &nbsp&nbsp&nbsp&nbsp - 산출물 다이어그램 작성하여 업무 인계에 활용 <br>
 &nbsp&nbsp&nbsp&nbsp - 산출물 Swagger 작성하여 문서로 의사소통 <br>
-&nbsp <br> &nbsp
+&nbsp <br>
 </td>
 </tr>
 <tr align="left">
