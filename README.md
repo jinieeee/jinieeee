@@ -15,10 +15,11 @@
 <br>
 <table>
 <tr align="left">
-<th valign="top">플래티어 x2bee 솔루션<br>2024.04 ~ </th>
+<th valign="top">플래티어 x2bee 솔루션<br>2024.04 ~ 2024.07</th>
 <td>
     [기술] javascript, typescript, react, nextjs, zustand, spring framework, java <br>
     [역할] <br>
+&nbsp&nbsp&nbsp&nbsp - 데이터 이관 배치 개선 <br>
 &nbsp&nbsp&nbsp&nbsp - NIFI DB 동기화 <br>
 &nbsp&nbsp&nbsp&nbsp - 토스 PG 결제/빌링 개발 <br>
 &nbsp&nbsp&nbsp&nbsp - 멀티사이트 서비스 솔루션 설계 및 개발 <br>
@@ -31,7 +32,7 @@
 </td>
 </tr>
 <tr align="left">
-<th valign="top">플래티어 x2bee 솔루션<br>2023.10 ~ 03</th>
+<th valign="top">플래티어 x2bee 솔루션<br>2023.10 ~ 2024.03</th>
 <td valign="top">
    [목적] vuejs(nuxt) -> reactjs(next) 마이그레이션 <br>
    [기술] javascript, typescript, react, nextjs, zustand <br>
@@ -97,3 +98,7 @@ Here are some ideas to get you started:
 -->
 ## Git Stats
 ![jinieeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinieeee&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinieeee&layout=compact&theme=dracula)
+
