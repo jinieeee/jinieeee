@@ -15,6 +15,28 @@
 <br>
 <table>
 <tr align="left">
+<th valign="top">플래티어 X2BEE 솔루션<br>2025.03 ~</th>
+<td>
+[목적] 솔루션 고도화 및 신규 기능 개발 <br>
+[역할]<br>
+- 고객사 DB 전환에 따라 postgreSql -≫ mySql 쿼리 변경<br>
+- B2C 용 세금계산서 발행 기능 추가<br>
+</td>
+</tr>
+<tr align="left">
+<th valign="top">아이스크림미디어 사의 아이스크림몰(이커머스) 개발 지원<br>2024.11 ~ 2025.02</th>
+<td>
+[기술] React, NextJS, typescript, zustand, Spring boot, java, MyBatis, postgreSQL<br>
+[목적] X2BEE 솔루션 기반 이커머스 구축<br>
+[역할]<br>
+- 아이스크림몰 주문 개발<br>
+- 결제/빌링 DTO 인터페이스 설계 및 구현<br>
+[성과]<br>
+- 객체지향 설계 원칙을 적용하여 공통화 및 재사용성 향상<br>
+- 전략패턴, AOP를 적용하여 서버 로직을 설계하고 트랜잭션과 로깅을 분리하여 구현하여 유지보수성 향상<br>
+</td>
+</tr>
+<tr align="left">
 <th valign="top">플래티어 x2bee 솔루션<br>2024.04 ~ 2024.07</th>
 <td>
     [기술] javascript, typescript, react, nextjs, zustand, spring framework, java <br>
